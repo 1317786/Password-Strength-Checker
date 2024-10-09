@@ -15,9 +15,11 @@ In this project, we will be building a Python script designed to assess the stre
 
 <h2>Takeaways</h2>
 
-- <b>Python Script Development for MD5 Hash Cracking</b>: Successfully developed a Python script that deciphers MD5 hashes to reveal plain text passwords, emphasizing practical applications of cryptographic techniques. Demonstrated proficiency in utilizing Python's hashlib module, enhancing skills in creating security tools and understanding hash function vulnerabilities.
+- <b>Development and Enhancement of Python Scripting Skills</b>: Successfully developed a Python script designed to evaluate the strength of passwords based on predefined security criteria. This project showcased the ability to integrate Python’s string handling capabilities with file operations, advancing skills in creating practical security tools. Demonstrated proficiency in Python programming by implementing conditional logic and loops to assess various password characteristics effectively.
 
-- <b>Testing and Verification of Script Functionality</b>: Acquired practical experience by rigorously testing the hash cracker against a custom password list, validating the script’s effectiveness in identifying the correct passwords. This process highlighted the importance of comprehensive testing in software development, ensuring the tool’s functionality and reliability in real-world scenarios.
+- <b>Practical Application and Security Awareness</b>: Gained practical experience in implementing security measures within software applications by testing the password strength checker against a comprehensive list of commonly used passwords. This process emphasized the critical role of strong password policies in protecting user data and reinforced the importance of avoiding common passwords, which are susceptible to brute-force attacks and other cracking methods.
+
+- <b>Understanding of Password Security Best Practices</b>: Through the development of this tool, reinforced the best practices for creating strong, unguessable passwords that enhance security. This project highlighted the balance between user convenience and the necessity for rigorous security measures in password management.
 
 
 <h2>Program walk-through:</h2>
@@ -26,18 +28,7 @@ In this project, we will be building a Python script designed to assess the stre
 Python script code for MD5 hash cracker using nano text editor: <br/>
 <img src="Python code.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />Created a .txt file containing list of possible passwords:  <br/>
-<img src="list of passwords.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Generated an MD5 hash tied to the password 'admin': <br/>
-<img src="md5 hash example.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
-<img src="verfication.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 </p>
 
 
