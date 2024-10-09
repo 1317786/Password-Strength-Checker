@@ -25,7 +25,7 @@ In this project, we will be building a Python script designed to assess the stre
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Python script code for MD5 hash cracker using nano text editor: <br/>
+Example passwords being ran against the password strength checker, with some being denied and informed to try again, and others meeting the criteria for successful password creation: <br/>
 <img src="Python code.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
